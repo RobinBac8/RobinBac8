@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Robin BACQUET</h1>
 <h3 align="center">Just a random french Studen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinbac8&label=Profile%20views&color=0e75b6&style=flat" alt="robinbac8" /> </p>
